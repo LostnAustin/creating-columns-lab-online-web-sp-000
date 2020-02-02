@@ -53,11 +53,8 @@ img:hover {
   grid-template-rows: 1fr 1fr 1fr;
   width: 33%;
   grid-auto-flow: row;
-  align-items: vertical;
+  /*align-items: vertical;*/
 }
-
-
-
 
 }
 .small {
